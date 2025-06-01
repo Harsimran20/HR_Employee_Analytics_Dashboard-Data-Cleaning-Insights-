@@ -81,9 +81,9 @@ Unassigned 0 1
 ## 📁 File Structure
 
 .
-├── employee_analytics.py # Main analysis script
-├── cleaned_data.csv # (Optional) Output file
-├── README.md # Project documentation
+- ├── employee_analytics.py # Main analysis script
+- ├── cleaned_data.csv # (Optional) Output file
+- ├── README.md # Project documentation
 
 ## ✅ How to Run
 
