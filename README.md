@@ -88,11 +88,4 @@ Unassigned 0 1
 ## ✅ How to Run
 
 1. Make sure Python and Pandas are installed.
-2. Run the script:
-
-```bash
-python employee_analytics.py
-💡 Next Steps
-Add charts (e.g., salary by department) using Matplotlib or Seaborn.
-
-Export insights as an Excel file or build a dashboard using Streamlit.
+2. Run the script
